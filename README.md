@@ -145,6 +145,7 @@ docker container stats
 
 ## DOCKERFILE
 
+```
 FROM: Specifies the base image.
 RUN: Executes commands in a new layer on top of the current image.
 CMD: Provides defaults for executing a container.
@@ -158,6 +159,7 @@ VOLUME: Creates a mount point with the specified name.
 USER: Sets the user name or UID.
 WORKDIR: Sets the working directory.
 ARG: Defines a variable that users can pass at build-time.
+```
 
 - Example Dockerfile:
 
