@@ -192,3 +192,5 @@ EXPOSE $PORT
 CMD ["python", "./your-app.py"]
 
 ```
+
+![Docker](/pic/1709962727255.gif) 
